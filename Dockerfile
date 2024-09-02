@@ -1,4 +1,4 @@
-FROM quay.io/hermit/hermit-ser:latest
+FROM node:18.17.0
 
 RUN git clone https://github.com/A-d-i-t-h-y-a-n/hermit-bot /root/hermit-md
 WORKDIR /root/hermit-md/
