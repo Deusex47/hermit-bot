@@ -4,10 +4,10 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 ***
 
 ### SETUP
-
-1. Scan the QR and copy it
+1. [![Fork](https://img.shields.io/github/forks/a-d-i-t-h-y-a-n/hermit-bot?style=social)](https://github.com/a-d-i-t-h-y-a-n/hermit-bot/fork)
+2. Scan the QR or pair and copy it
     <br>
-<a href='https://hermit.adithyan.in.net/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://hermit.adithyan.in.net/' target="_blank"><img alt='SESSION' src='https://img.shields.io/badge/SESSION-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 #### DEPLOY TO RENDER 
 
@@ -29,9 +29,9 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
     <br>
 <a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
-3. Get [DATABASE_URL](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki/DATABASE_URL) and copy it
+3. Create [DATABASE_URL](https://app.koyeb.com/database-services/new) and copy it
 
-4. Get [Koyeb api key](https://app.koyeb.com/account/api)
+4. Get [Koyeb API_KEY](https://app.koyeb.com/settings/api)
 
 2. Now Deploy
     <br>
@@ -70,4 +70,7 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 For help visit [Github wiki](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki)
 
 ***
+
+[![Join us on Telegram](https://img.shields.io/badge/Join_Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hermitmd_official)
+
 <a href="https://whatsapp.com/channel/0029Va4OxFAGk1FjrFvTJa1V"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
